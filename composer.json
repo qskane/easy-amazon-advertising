@@ -1,5 +1,5 @@
 {
-  "name": "qskane/amazon-advertising",
+  "name": "qskane/easy-amazon-advertising",
   "description": "Amazon Advertising API v2 Client Library",
   "type": "library",
   "license": "MIT",
