@@ -1,7 +1,7 @@
 {
   "name": "qskane/easy-amazon-advertising",
   "description": "Amazon Advertising API v2 Client Library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "library",
   "license": "MIT",
   "require": {
