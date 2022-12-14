@@ -10,6 +10,13 @@ use Pimple\Container;
 /**
  * Class Application.
  *
+ * @property \easyAmazonAdv\SponsoredBrands\Bid\Client $bid
+ * @property \easyAmazonAdv\SponsoredBrands\Campaigns\Client $campaigns
+ * @property \easyAmazonAdv\SponsoredBrands\Groups\Client $groups
+ * @property \easyAmazonAdv\SponsoredBrands\Keywords\Client $keywords
+ * @property \easyAmazonAdv\SponsoredBrands\ProductTargeting\Client $product_targeting
+ * @property \easyAmazonAdv\SponsoredBrands\Report\Client $report
+ *
  * @author  baihe <b_aihe@163.com>
  * @date    2019-11-13 23:51
  */
