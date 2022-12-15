@@ -26,15 +26,12 @@ class Factory
         switch ($name) {
             case 'SBrands':
                 $name = 'SponsoredBrands';
-
                 break;
             case 'SDisplay':
                 $name = 'SponsoredDisplay';
-
                 break;
             case 'SProducts':
                 $name = 'SponsoredProducts';
-
                 break;
             default:
         }
